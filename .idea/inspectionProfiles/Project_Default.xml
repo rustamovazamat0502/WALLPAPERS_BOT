@@ -1,0 +1,101 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="div" />
+            <item index="7" class="java.lang.String" itemvalue="a" />
+            <item index="8" class="java.lang.String" itemvalue="li" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="Markdown" />
+            <item index="1" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Registration.models.Product.objects" />
+          <option value="shop.models.Category.objects" />
+          <option value="shop.models.Product.objects" />
+          <option value="sqlite3.dbapi2.Cursor.__getitem__" />
+          <option value="Todo.models.Task.objects" />
+          <option value="boston.models.Album.objects" />
+          <option value="blog.models.Post.objects" />
+          <option value="django.db.models.fields.related.OneToOneField.username" />
+          <option value="users.models.Profile.objects" />
+          <option value="django.db.models.fields.files.ImageField.path" />
+          <option value="forms.LoginForm.password" />
+          <option value="flask_sqlalchemy.SQLAlchemy.Column" />
+          <option value="flask_sqlalchemy.SQLAlchemy.String" />
+          <option value="flask_sqlalchemy.SQLAlchemy.Integer" />
+          <option value="flask_sqlalchemy.SQLAlchemy.DateTime" />
+          <option value="flask_sqlalchemy.SQLAlchemy.Text" />
+          <option value="flask_sqlalchemy.SQLAlchemy.relationship" />
+          <option value="flask_sqlalchemy.SQLAlchemy.ForeignKey" />
+          <option value="flaskblog.forms.RegistrationForm.password" />
+          <option value="Post.models.Article.objects" />
+          <option value="Post.models.Category.objects" />
+          <option value="FoodRecipes.models.Recipe.objects" />
+          <option value="FoodRecipes.models.Category.objects" />
+          <option value="accounts.models.Product.objects" />
+          <option value="accounts.models.Customer.objects" />
+          <option value="accounts.models.Order.*" />
+          <option value="blog.models.Category.objects" />
+          <option value="blog.models.Article.objects" />
+          <option value="recipe.models.Recipe.objects" />
+          <option value="django.db.models.fields.files.ImageField.url" />
+          <option value="recipe.models.Category.objects" />
+          <option value="products.models.Product.objects" />
+          <option value="diploma.models.User.objects" />
+          <option value="patients.models.Patients.objects" />
+          <option value="recipes.models.Recipe.objects" />
+          <option value="recipes.models.Category.*" />
+          <option value="recipe.models.Message.objects" />
+          <option value="cosmetics.models.settings" />
+          <option value="weather.models.City.objects" />
+          <option value="cosmetics.models.Product.objects" />
+          <option value="cosmetics.models.SliderImage.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
